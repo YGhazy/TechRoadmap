@@ -43,12 +43,12 @@
 ### .NET Core
 
 - **Core Framework:**
-  - [ ] Middleware pipeline in-depth
-  - [ ] Custom middleware development
-  - [ ] Dependency Injection (DI) patterns
+  - [x] Middleware pipeline in-depth
+  - [x] Custom middleware development
+  - [x] Dependency Injection (DI) patterns
 
 - **Advanced Development:**
-  - [ ] Building RESTful APIs with ASP.NET Core
+  - [x] Building RESTful APIs with ASP.NET Core
   - [ ] GraphQL integration
   - [ ] gRPC services
 
@@ -63,7 +63,7 @@
   - [ ] Threading and concurrency
 
 - **Caching:**
-  - [ ] In-memory caching
+  - [x] In-memory caching
   - [ ] Distributed caching (Redis, NCache)
   - [ ] Cache invalidation strategies
 
@@ -77,7 +77,7 @@
 
 - **Security:**
   - [ ] Implementing OAuth2 and OpenID Connect
-  - [ ] JWT authentication and authorization
+  - [x] JWT authentication and authorization
   - [ ] Secure coding practices and threat modeling
 
 ## 2. DevOps and CI/CD
@@ -112,7 +112,10 @@
 - **Design Patterns:**
   - [ ] Advanced design patterns (CQRS, Event Sourcing)
   - [ ] Dependency Injection (DI) and Inversion of Control (IoC)
-  - [ ] Repository and Unit of Work patterns
+  - [x] Repository and Unit of Work patterns
+  - [x] Factory
+  - [ ] Strategy
+  - [ ] singelton 
 
 - **System Design:**
   - [ ] High-level system design principles
