@@ -1,5 +1,8 @@
 # TechRoadmap
 
+![image](https://github.com/user-attachments/assets/d45dc3f3-3c91-495a-b0ec-df8433ed9bb5)
+
+
 ## 1. Technical Mastery
 
 ### Angular
